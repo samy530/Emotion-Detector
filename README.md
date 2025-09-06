@@ -47,7 +47,7 @@ source venv/bin/activate
 ## 🚀 Installation & Utilisation du projet
 
 ## 1️⃣ Cloner le dépôt :
-git clone https://github.com/ton-nom-utilisateur/emotion-detector.git
+git clone [https://github.com/ton-nom-utilisateur/emotion-detector.git](https://github.com/samy530/Emotion-Detector.git)
 cd emotion-detector
 
 ## 2️⃣ Installer les dépendances :
